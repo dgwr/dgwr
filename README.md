@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgwr/Guo Wei
-- 👀 I’m interested in wireless navigation and localization.
-- 🌱 I’m currently learning UWB based navigation.
+- 👀 I’m interested in wireless sensing and mobile computing.
+- 🌱 I’m currently learning UWB-based navigation.
 
 
 <!---
