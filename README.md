@@ -2,7 +2,7 @@
 - 👀 I’m interested in wireless sensing and mobile computing.
 - 🌱 I’m currently learning UWB-based navigation.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dgwr?theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dgwr&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
