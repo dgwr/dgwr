@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dgwr/Guo Wei
+- 👋 Hi, I’m @dgwr/Guo Wei, a positioning algorithm engineer.
 - 👀 I’m interested in wireless sensing and mobile computing.
 - 🌱 I’m currently learning UWB-based navigation.
 
